@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a38c15-a6fb-442f-8109-82b05864c2d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/banco_de_arquivos.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/banco_de_arquivos.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/biblioteca.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/biblioteca.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/livro.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/livro.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/loja_virtual.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/loja_virtual.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/relatorio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/relatorio.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/livros.yml" beforeDir="false" afterPath="$PROJECT_DIR$/livros.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +16,8 @@
       <file leaf-file-name="livro.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/livro.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -46,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formatador_moeda.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="formatador_moeda.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/formatador_moeda.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="17">
+              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -73,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loja_virtual.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="loja_virtual.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/loja_virtual.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="51">
+              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -104,8 +98,8 @@
         <option value="$PROJECT_DIR$/lib/biblioteca.rb" />
         <option value="$PROJECT_DIR$/lib/formatador_moeda.rb" />
         <option value="$PROJECT_DIR$/lib/livro.rb" />
-        <option value="$PROJECT_DIR$/lib/loja_virtual.rb" />
         <option value="$PROJECT_DIR$/lib/midia.rb" />
+        <option value="$PROJECT_DIR$/lib/loja_virtual.rb" />
       </list>
     </option>
   </component>
@@ -183,12 +177,12 @@
       <workItem from="1531141702210" duration="9657000" />
       <workItem from="1531151453798" duration="208000" />
       <workItem from="1531222784602" duration="12522000" />
-      <workItem from="1531307010272" duration="8766000" />
+      <workItem from="1531307010272" duration="9331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31153000" />
+    <option name="totallyTimeSpent" value="31718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -312,13 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/biblioteca.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/relatorio.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -340,10 +327,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/loja_virtual.rb">
+    <entry file="file://$PROJECT_DIR$/lib/formatador_moeda.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/biblioteca.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -356,15 +350,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/livro.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/formatador_moeda.rb">
+    <entry file="file://$PROJECT_DIR$/lib/loja_virtual.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="51">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
