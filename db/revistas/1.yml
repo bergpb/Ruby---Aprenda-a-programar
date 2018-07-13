@@ -1,4 +1,6 @@
 --- !ruby/object:Revista
-titulo: Mundo J
-valor: 10.9
 id: 1
+destroyed: false
+new_record: false
+titulo: Veja
+valor: 10.9
