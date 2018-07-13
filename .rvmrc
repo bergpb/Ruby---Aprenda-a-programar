@@ -1,0 +1,4 @@
+# para uso da gemset do projeto, assim não será necessário executar o comando para setar a gemset,
+# com o argumento --craete o mesmo cria o gemset e depois o seleciona.
+
+rvm use 1.9.3@loja_virtual --create
